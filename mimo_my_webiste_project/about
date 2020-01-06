@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <title>MIMO: WEBSITE PROJECT </title>
+        <meta name="description" content="website project mimo">
+        <link rel="stylesheet" href="main.css">
+    </head>
+    <body>
+        
+        <div id="header">
+            <div class="container">
+                <a href="index.html">My Blog</a>
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </div>
+        </div>
+        <div id="content">
+            <div id="container">
+                <div id="post">
+                      <div id="post-author">
+                         <img src="me.jpg" width="40px" height="40px">
+                          <span>Me</span>
+                      </div>
+                    <p class="post-date">4 de Enero 2020</p>
+                    <h3 class="post-title">Becoming a web developer</h3>
+                    <div class="post-content">
+                        <p>If somebody would have told me a week ago that i would be able to make a website, i would not have believed them.</p>
+                        <p>Just a few days later, i came across Mimo and started to work on a real blog.</p>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="footer">
+            <div class="container">
+                <div class="column">
+                    <h4>My Link</h4>
+                    <p>
+                    <a href="http://facebook.com/">Facebook</a>
+                    <br>
+                    <a href="http://twitter.com/">Twitter</a>
+                    </p>
+                </div>
+                <div class="column">
+                     <h4>My story</h4>
+                    <p>Hi There! i'm an aspiring web developer.</p>
+                </div>
+            </div>
+        </div>
+        
+    </body>
+</html>
